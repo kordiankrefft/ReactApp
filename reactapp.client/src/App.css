@@ -1,0 +1,22 @@
+.logo{
+    width:150px;
+    height:100px;
+    margin-right:10px;
+}
+a {
+    text-decoration:none;
+    color:black
+}
+.custom-link {
+    color: dodgerblue;
+}
+
+.nav-link {
+    color:black;
+}
+
+.menu {
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 28px;
+}
