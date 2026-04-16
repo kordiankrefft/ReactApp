@@ -65,7 +65,7 @@ More screenshots are located in `assets/`
 
 #### Contactors
 
-![Contactors](assets/contactors.png)
+![Contractors](assets/contractors.png)
 
 #### Delete Contactors
 
