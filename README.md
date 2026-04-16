@@ -63,7 +63,7 @@ More screenshots are located in `assets/`
 
 ![Home page2](assets/home_page2.png)
 
-#### Contactors
+#### Contractors
 
 ![Contractors](assets/contractors.png)
 
