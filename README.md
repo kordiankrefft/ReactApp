@@ -9,6 +9,10 @@ This repository contains:
 - **React + TypeScript (Vite) frontend** in `reactapp.client/`
 - **ASP.NET Core server** in `ReactApp.Server/` (serves static files + API endpoints via `Controllers`)
 
+### Live Demo
+
+👉 https://react-cms-kordian.netlify.app
+
 ### Demo modules (high level)
 
 - Products: list, filters, details, reports
