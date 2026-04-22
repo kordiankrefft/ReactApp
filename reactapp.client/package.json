@@ -18,8 +18,8 @@
     "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
-    "@types/react-datepicker": "^7.0.0",
     "@types/react": "^18.3.11",
+    "@types/react-datepicker": "^7.0.0",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.2.1",
     "eslint": "^8.57.0",
